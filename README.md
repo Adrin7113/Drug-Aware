@@ -1,4 +1,4 @@
-# Prevnt - A Mobile App for Drug Abuse Prevention and Reporting
+# Drug Aware - A Mobile App for Drug Abuse Prevention and Reporting
 
 > Addiction Is The Disease That Makes You Too Selfish
 To See The Havoc You Created Or
@@ -6,7 +6,7 @@ Care About The People Whose Lives You Have Shattered.
 
 # Introduction: 
 **Drug abuse** is a growing problem that affects individuals, families, and communities. 
-To address this issue, we propose the development of a mobile app called DrugAware. 
+To address this issue, we propose the development of a mobile app called Drug Aware. 
 This app aims to provide information about drug abuse, its effects, and ways to prevent and report it. 
 In addition, the app will use data analytics to identify patterns of drug abuse, 
 which can help law enforcement agencies to take preventive measures. 
